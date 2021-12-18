@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "National Parks Guide for Travelers"
-email: Ziyuan Cai, Sisun Cheng
+email: 
 description: "Final Project for MUSA 550 Geospatial Data Science in Python"
 twitter_username:
 github_username:
