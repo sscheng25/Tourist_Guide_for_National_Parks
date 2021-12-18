@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Ziyuan Cai\n Sisun Cheng"
+  name: "Ziyuan Cai & Sisun Cheng"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Final Project for MUSA 550 Geospatial Data Science in Python"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -65,12 +65,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "GitHub - @KRMeteor"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/KRMeteor"
+    - label: "GitHub - @sscheng25"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sscheng25/"
 
 footer:
   links:
