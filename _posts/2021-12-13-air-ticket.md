@@ -8,7 +8,7 @@ altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] 
-  hv-chart-2: ["charts/weather_panel.html", "600"]
+  hv-chart-2: ["charts/air_ticket_Altair.html", "600"]
 toc: true
 toc_sticky: true
 ---
