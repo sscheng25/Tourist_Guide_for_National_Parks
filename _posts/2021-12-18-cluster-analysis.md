@@ -1,5 +1,5 @@
 ---
-title: "Analysis on Air Ticket Price from PHL"
+title: "Cluster Analysis for National Parks"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
@@ -32,7 +32,6 @@ alt.renderers.enable('notebook')
 
 Lastly, the measles incidence produced using the HvPlot package:
 
-<div id="hv-chart-1"></div>
 <div id="hv-chart-2"></div>
 
 ## Notes
