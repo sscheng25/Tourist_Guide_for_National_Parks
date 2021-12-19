@@ -27,6 +27,7 @@ This was produced using Altair and embedded in this static web page. Note that y
 import altair as alt
 alt.renderers.enable('notebook')
 ```
+<div id="hv-chart-1"></div>
 
 ## HvPlot Example
 
