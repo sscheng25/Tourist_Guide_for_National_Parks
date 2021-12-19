@@ -2,7 +2,7 @@
 
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
-[DEMO](https://sscheng25.github.io/Tourist_Guide_for_National_Parks/)
+[Link for our webpage!](https://sscheng25.github.io/Tourist_Guide_for_National_Parks/)
 
 ## Steps
 
