@@ -1,6 +1,6 @@
 ---
-title: "Analysis on Air Ticket Price from PHL"
-date: 2019-04-13
+title: "Cluster Analysis for National Parks"
+date: 2021-12-15
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
@@ -32,7 +32,6 @@ alt.renderers.enable('notebook')
 
 Lastly, the measles incidence produced using the HvPlot package:
 
-<div id="hv-chart-1"></div>
 <div id="hv-chart-2"></div>
 
 ## Notes

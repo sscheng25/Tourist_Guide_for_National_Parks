@@ -1,6 +1,6 @@
 ---
 title: "Information and surroundings of the National Parks"
-date: 2019-04-13
+date: 2021-12-16
 published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
