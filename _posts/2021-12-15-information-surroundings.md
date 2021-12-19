@@ -6,8 +6,8 @@ tags: [dataviz, folium, altair, hvplot, holoviews]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 altair-loader:
   altair-chart-1: "charts/barplot1_altair.json"
-  altair-chart-1: "charts/barplot2_altair.json"
-  altair-chart-1: "charts/barplot3_altair.json"
+  altair-chart-2: "charts/barplot2_altair.json"
+  altair-chart-3: "charts/barplot3_altair.json"
 hv-loader:
   hv-chart-1: ["charts/panelcensus.html", "800"] # second argument is the height
 toc: true
