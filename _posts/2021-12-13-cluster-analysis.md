@@ -1,11 +1,13 @@
 ---
-title: "Analysis on Air Ticket Price from PHL"
-date: 2021-12-16
+title: "Cluster Analysis for National Parks"
+date: 2021-12-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
-  altair-chart-1: "charts/air_ticket_Altair.json"
+  altair-chart-1: "charts/cluster_altair.json"
+hv-loader:
+  hv-chart-2: ["charts/weather_panel.html", "600"]
 toc: true
 toc_sticky: true
 ---
@@ -24,10 +26,11 @@ This was produced using Altair and embedded in this static web page. Note that y
 import altair as alt
 alt.renderers.enable('notebook')
 ```
-
 ## HvPlot Example
 
 Lastly, the measles incidence produced using the HvPlot package:
+
+<div id="hv-chart-2"></div>
 
 ## Notes
 
