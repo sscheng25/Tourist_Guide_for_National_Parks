@@ -13,6 +13,7 @@ hv-loader:
   hv-chart-2: ["charts/weather_panel.html", "600"] 
   hv-chart-3: ["charts/precipitation_panel.html", "600"] 
   hv-chart-4: ["charts/wind_panel.html", "600"] 
+  hv-chart-5: ["charts/amenity_panel.html", "600"] 
 toc: true
 toc_sticky: true
 ---
@@ -32,6 +33,10 @@ When visiting a new place, travelers often have problem finding **parking spaces
 <div id="altair-chart-2"></div>
 
 <div id="altair-chart-3"></div>
+
+***Interact with the selectors and see the distribution of amenities.***
+
+<div id="hv-chart-4"></div>
 
 ## Median Household Income
 
