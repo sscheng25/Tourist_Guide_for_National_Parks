@@ -10,22 +10,22 @@ toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+In this part, we will divide the top 10 national parks into 3 groups with *K-means clustering*. We hope to extract the similarities among each groups of parks and help travelers make a choice on which group to select.
 
 ## Cluster Results
 
-- Group I:
-- Group II:
-- Group III:
+- Group I: Channel Islands National Park
+- Group II: Crater Lake National Park, Grand Canyon National Park, Petrified Forest National Park, Great Smoky Mountains National Park, Mesa Verde National Park, Redwood National Park
+- Group III: Everglades National Park, Saguaro National Park
 
 
-## Matrix Plot
+## Matrix Plots
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
+We plot some features used in clustering analysis above inthe matrix plots below. For most features here, we can see a clustering pattern.
 
 <div id="altair-chart-1"></div>
 
-This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
+
 
 
 
