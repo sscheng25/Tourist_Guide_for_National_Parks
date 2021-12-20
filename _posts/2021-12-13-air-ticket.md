@@ -6,8 +6,7 @@ tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Plotting the change of ticket price during Christmas this year."
 altair-loader:
   altair-chart-1: "charts/air_ticket_Altair.json"
-toc: true
-toc_sticky: true
+toc: false
 ---
 
 To help travelers from Philadelphia plan their trip during Christmas this year, we collect the air ticket price data from [Southwest Airlines](https://www.southwest.com/) and [United Airlines](https://www.united.com/). We select **PHL** as the origin and the **nearest commercial airport of each national park** as the destination. The ticket price data was collected on Dec 6th, 2021 from their official website.
