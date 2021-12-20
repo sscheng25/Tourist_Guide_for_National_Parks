@@ -10,6 +10,7 @@ altair-loader:
   altair-chart-3: "charts/barplot3_altair.json"
 hv-loader:
   hv-chart-1: ["charts/panelcensus.html", "800"] 
+  hv-chart-2: ["charts/weather_panel.html", "800"] 
 toc: true
 toc_sticky: true
 ---
@@ -36,4 +37,8 @@ There is a relationship between the income of local households and the regional 
 
 <div id="hv-chart-1"></div>
 
+## Weather Data
 
+There is a relationship between the income of local households and the regional level of services. We plot the median household income with a spatial unit of census block groups near the national parks. **Users can select their park of interest with the selector and enjoy the help of the interactive map.**
+
+<div id="hv-chart-2"></div>
