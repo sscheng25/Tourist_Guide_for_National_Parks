@@ -39,6 +39,10 @@ There is a relationship between the income of local households and the regional 
 
 ## Weather Data
 
-There is a relationship between the income of local households and the regional level of services. We plot the median household income with a spatial unit of census block groups near the national parks. **Users can select their park of interest with the selector and enjoy the help of the interactive map.**
+It's also important to take a look at the local weather data, especially the temperature. Here is the corresponding relationship of national parks and weather stations.
+
+![park_and_station]({{ site.url }}{{ site.baseurl }}/assets/images/park_and_station.png)
+
+***Use the selectors and see the temperature data of each stations!***
 
 <div id="hv-chart-2"></div>
