@@ -10,7 +10,6 @@ excerpt: "A brief introduction of our project on national parks"
 ---
 
 ![national_park]({{ site.url }}{{ site.baseurl }}/assets/images/national_park.png)
-
 *(The beautiful scenery of a national park)*
 
 National parks are defined as a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns, with the conservation of 'wild nature' for posterity and as a symbol of national pride. 
