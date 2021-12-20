@@ -3,7 +3,7 @@ title: "Information and Surroundings of the National Parks"
 date: 2021-12-15
 published: true
 tags: [dataviz, folium, altair, hvplot, holoviews]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "Giving a general sense of the local counties."
 altair-loader:
   altair-chart-1: "charts/barplot1_altair.json"
   altair-chart-2: "charts/barplot2_altair.json"

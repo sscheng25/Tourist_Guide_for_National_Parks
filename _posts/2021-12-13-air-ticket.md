@@ -3,7 +3,7 @@ title: "Analysis on Air Ticket Price from PHL"
 date: 2021-12-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "Plotting the change of ticket price during Christmas this year."
 altair-loader:
   altair-chart-1: "charts/air_ticket_Altair.json"
 toc: true
