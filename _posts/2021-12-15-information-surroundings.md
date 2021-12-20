@@ -11,6 +11,8 @@ altair-loader:
 hv-loader:
   hv-chart-1: ["charts/panelcensus.html", "800"] 
   hv-chart-2: ["charts/weather_panel.html", "800"] 
+  hv-chart-3: ["charts/precipitation_panel.html", "800"] 
+  hv-chart-4: ["charts/wind_panel.html", "800"] 
 toc: true
 toc_sticky: true
 ---
@@ -39,10 +41,14 @@ There is a relationship between the income of local households and the regional 
 
 ## Weather Data
 
-It's also important to take a look at the local weather data, especially the temperature. Here is the corresponding relationship of national parks and weather stations.
+It's also important to take a look at the local weather data, especially the temperature and precipitation. Here is the corresponding relationship of national parks and weather stations.
 
 ![park_and_station]({{ site.url }}{{ site.baseurl }}/assets/images/park_and_station.png)
 
-***Use the selectors and see the temperature data of each stations!***
+***Use the selectors and see the weather data of each stations!***
 
 <div id="hv-chart-2"></div>
+
+<div id="hv-chart-3"></div>
+
+<div id="hv-chart-4"></div>
