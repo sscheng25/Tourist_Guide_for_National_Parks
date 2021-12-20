@@ -14,16 +14,15 @@ In this part, we will divide the top 10 national parks into 3 groups with *K-mea
 
 ## Cluster Results
 
-- Group I: Channel Islands National Park
-- Group II: Crater Lake National Park, Grand Canyon National Park, Petrified Forest National Park, Great Smoky Mountains National Park, Mesa Verde National Park, Redwood National Park
-- Group III: Everglades National Park, Katmai National Park, Saguaro National Park
-
+- Group 0: Everglades National Park, Katmai National Park, Saguaro National Park
+- Group 1: Crater Lake National Park, Grand Canyon National Park, Petrified Forest National Park, Great Smoky Mountains National Park, Mesa Verde National Park, Redwood National Park
+- Group 2: Channel Islands National Park
 
 ## Matrix Plots
 
 We plot some features used in clustering analysis above inthe matrix plots below. For most features here, we can see a clustering pattern.
 
-Group I shows a high local income and low crime rate. Group II has the similarity of low median household income, few local restaurants and other amenities, and moderate crime rate. Parks in group III is common in high crime rate, many local restaurants, and moderate median household income.
+Parks in group 0 is common in high crime rate, many local restaurants, and moderate median household income. Group 1 has the similarity of low median household income, few local restaurants and other amenities, and moderate crime rate. Group 2 shows a high local income and low crime rate. 
 
 <div id="altair-chart-1"></div>
 
