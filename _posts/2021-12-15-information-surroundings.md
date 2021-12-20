@@ -34,6 +34,8 @@ When visiting a new place, travelers often have problem finding **parking spaces
 
 <div id="altair-chart-3"></div>
 
+![park_and_county]({{ site.url }}{{ site.baseurl }}/assets/images/park_and_county.png)
+
 ***Interact with the selectors and see the distribution of amenities.***
 
 <div id="hv-chart-5"></div>
