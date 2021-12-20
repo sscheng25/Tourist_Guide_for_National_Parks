@@ -8,24 +8,18 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are two main ways to make changes to your site:
+National parks are defined as a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns, with the conservation of 'wild nature' for posterity and as a symbol of national pride in Wikipedia. 
 
-- Edit files within your in the browser at GitHub.com
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
+Since 1872 that the US government established the first "public park or pleasuring-ground for the benefit and enjoyment of the people", Yellowstone National Park, there has been 423 national park sites in the [National Park System (NPS)][National Park System (NPS)], while about 60 of those are what we often call national parks. On December 20, 2019 White Sands was re-designated White Sands National Monument as White Sands National Park, making it the 62nd designated national park in the National Park System. For data accessibility, in this project, we only focus on **the first 61 national parks**. Each of these 61 national parks has its own characteristics, but they share the common that they attract a huge number of visitors each year. Despite the impact of COVID-19 on tourism, people are still fascinated by the beautiful natural landscapes in national parks. Thus, we aim to carry out a tourist's guide for national parks in the US for your reference. 
 
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+**The outline of our tourist's guide is shown as follows,**
 
-```python
-def print_message(message):
-  print(message)
+- We combine the **number of visitors** in the past 5 years and the **Twitter comments** on each national parks to make a ranking of the 61 national parks.
+- We gather information and data of the top 10 national parks and make some analysis on the surroundings.
+- We carry out cluster analysis with the features gathered above and divide these parks into three categories.
+- We get the air ticket price of each top 10 national parks from PHL and make our analysis.
 
-print_message("Welcome to GitHub Pages")
-```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
+[National Park System (NPS)]: https://www.nps.gov/aboutus/national-park-system.htm
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
