@@ -36,7 +36,7 @@ When visiting a new place, travelers often have problem finding **parking spaces
 
 ***Interact with the selectors and see the distribution of amenities.***
 
-<div id="hv-chart-4"></div>
+<div id="hv-chart-5"></div>
 
 ## Median Household Income
 
