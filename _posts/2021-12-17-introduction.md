@@ -6,7 +6,7 @@ categories:
 tags:
   - Github Page
   - update
-excerpt: "A brief introduction of our project on national parks"
+excerpt: "A brief introduction of our project on national parks."
 ---
 
 ![national_park]({{ site.url }}{{ site.baseurl }}/assets/images/national_park.png)
