@@ -20,7 +20,7 @@ In this part, we will divide the top 10 national parks into 3 groups with *K-mea
 
 ## Matrix Plots
 
-We plot some features used in clustering analysis above inthe matrix plots below. For most features here, we can see a clustering pattern.
+We plot some features used in clustering analysis above in the matrix plots below. For most features here, we can see a clustering pattern.
 
 Parks in group 0 is common in high crime rate, many local restaurants, and moderate median household income. Group 1 has the similarity of low median household income, few local restaurants and other amenities, and moderate crime rate. Group 2 shows a high local income and low crime rate. 
 
