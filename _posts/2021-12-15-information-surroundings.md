@@ -10,9 +10,9 @@ altair-loader:
   altair-chart-3: "charts/barplot3_altair.json"
 hv-loader:
   hv-chart-1: ["charts/panelcensus.html", "800"] 
-  hv-chart-2: ["charts/weather_panel.html", "800"] 
-  hv-chart-3: ["charts/precipitation_panel.html", "800"] 
-  hv-chart-4: ["charts/wind_panel.html", "800"] 
+  hv-chart-2: ["charts/weather_panel.html", "600"] 
+  hv-chart-3: ["charts/precipitation_panel.html", "600"] 
+  hv-chart-4: ["charts/wind_panel.html", "600"] 
 toc: true
 toc_sticky: true
 ---
