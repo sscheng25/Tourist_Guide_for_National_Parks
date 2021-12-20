@@ -24,7 +24,7 @@ Safety is always of the highest priority when making travel decisions. We collec
 
 ## Local Amenities
 
-When visiting a new place, travelers often have problem finding parking spaces and restaurant. We gather parking and restaurant data from Open Street Map database and want to give a general sense of these amenities for our users.
+When visiting a new place, travelers often have problem finding **parking spaces** and **restaurant**. We gather parking and restaurant data from Open Street Map database and want to give a general sense of these amenities for our users.
 
 <div id="altair-chart-2"></div>
 
