@@ -19,7 +19,7 @@ In this part, we analyze the features in the counties where the top 10 national 
 
 ## Local Crime cases
 
-Safety is always of the highest priority when making travel decisions. We collect crime data from 2016 to 2020 and calculate the crime cases per 1,000 population in local counties. The average crime cases per 1,000 population is about 12, and the Great Smoky Mountains National Park has the largest crime numbers nearby.
+Safety is always of the highest priority when making travel decisions. We collect crime data from 2016 to 2020 and calculate the crime cases per 1,000 population in local counties. The average crime cases per 1,000 population is about 12, and the Katmai National Park has the largest crime numbers nearby.
 
 <div id="altair-chart-1"></div>
 
