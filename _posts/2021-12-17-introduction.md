@@ -17,8 +17,8 @@ Since 1872 that the US government established the first "public park or pleasuri
 
 - We combine the **number of visitors** in the past 5 years and the **Twitter comments** on each national parks to make a ranking of the 61 national parks.
 - We gather information and data of the top 10 national parks and make some analysis on the surroundings.
-- We carry out cluster analysis with the features gathered above and divide these parks into three categories.
-- We get the air ticket price of each top 10 national parks from PHL and make our analysis.
+- We carry out **cluster analysis** with the features gathered above and divide these parks into three categories.
+- We get the **air ticket price** of each top 10 national parks from PHL and make our analysis.
 
 
 [National Park System (NPS)]: https://www.nps.gov/aboutus/national-park-system.htm
