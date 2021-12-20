@@ -6,7 +6,7 @@ categories:
 tags:
   - Github Page
   - update
-excerpt: "The brief introduction of our project on national parks"
+excerpt: "A brief introduction of our project on national parks"
 ---
 
 National parks are defined as a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns, with the conservation of 'wild nature' for posterity and as a symbol of national pride. 

@@ -1,5 +1,5 @@
 ---
-title: "Information and surroundings of the National Parks"
+title: "Information and Surroundings of the National Parks"
 date: 2021-12-15
 published: true
 tags: [dataviz, folium, altair, hvplot, holoviews]
