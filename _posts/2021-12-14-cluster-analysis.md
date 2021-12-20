@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 ---
 
-In this part, we will divide the top 10 national parks into 3 groups with *K-means* clustering. We hope to extract the similarities among each groups of parks and help travelers make a choice on which group to select.
+In this part, we will divide the top 10 national parks into 3 groups with *Hierarchical clustering* in `scipy.cluster.hierarchy` package. We hope to extract the similarities among each groups of parks and help travelers make a choice on which group to select.
 
 ## Cluster Results
 
