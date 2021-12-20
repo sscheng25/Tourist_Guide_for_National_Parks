@@ -9,6 +9,8 @@ tags:
 excerpt: "A brief introduction of our project on national parks"
 ---
 
+![national_park]({{ site.url }}{{ site.baseurl }}/assets/images/national_park.png)
+
 National parks are defined as a reserve of natural, semi-natural, or developed land that a sovereign state declares or owns, with the conservation of 'wild nature' for posterity and as a symbol of national pride. 
 
 Since 1872 that the US government established the first "public park or pleasuring-ground for the benefit and enjoyment of the people", Yellowstone National Park, there has been 423 national park sites in the [National Park System (NPS)][National Park System (NPS)], while about 60 of those are what we often called national parks. On December 20, 2019 White Sands was re-designated White Sands National Monument as White Sands National Park, making it the 62nd designated national park in the National Park System. 
