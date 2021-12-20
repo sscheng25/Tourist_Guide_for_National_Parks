@@ -34,6 +34,8 @@ When visiting a new place, travelers often have problem finding **parking spaces
 
 <div id="altair-chart-3"></div>
 
+Here we present a table describing the corresponding relationship between parks and counties. Users can refer to this table and interact with the map below.
+
 ![park_and_county]({{ site.url }}{{ site.baseurl }}/assets/images/park_and_county.png)
 
 ***Interact with the selectors and see the distribution of amenities.***
